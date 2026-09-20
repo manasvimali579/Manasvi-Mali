@@ -1,1 +1,2 @@
 # Manasvi-Mali
+InterviewIQ is an AI-powered interview preparation platform that helps users practice technical and behavioral interviews based on their selected job role and difficulty level. It provides shuffled interview questions, evaluates user answers for clarity, relevance, confidence, and technical accuracy, and offers personalized feedback. The platform also tracks readiness scores, practice streaks, focus areas, and overall interview progress.
